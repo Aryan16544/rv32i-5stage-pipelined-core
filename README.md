@@ -1,3 +1,7 @@
+![Language](https://img.shields.io/badge/Language-Verilog-blue)
+![Pipeline](https://img.shields.io/badge/Pipeline-5--Stage-green)
+![ISA](https://img.shields.io/badge/ISA-RV32I-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 # RV32I 5-Stage Pipelined RISC-V Core
 
 A fully functional **RV32I RISC-V processor** implemented in Verilog with a classic **5-stage pipeline**, including hazard handling, forwarding, and CSR support.
