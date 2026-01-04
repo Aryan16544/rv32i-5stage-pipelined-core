@@ -42,6 +42,10 @@ A fully functional **RV32I RISC-V processor** implemented in Verilog with a clas
 - Simulator: Vivado XSIM
 - All internal signals verified
 - Clean green waveforms (no X/Z)
+## 🧪 Simulation Waveforms
+
+![Pipeline Waveform](sim/wavearya.png)
+
 
 ---
 
