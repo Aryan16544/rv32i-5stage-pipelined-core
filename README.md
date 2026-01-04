@@ -44,7 +44,7 @@ A fully functional **RV32I RISC-V processor** implemented in Verilog with a clas
 - Clean green waveforms (no X/Z)
 ## 🧪 Simulation Waveforms
 
-![Pipeline Waveform](sim/wavearya.png)
+![Pipeline Waveform](Sim/wavearya.png)
 
 
 ---
