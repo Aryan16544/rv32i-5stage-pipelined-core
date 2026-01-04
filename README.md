@@ -67,6 +67,13 @@ See repository tree for RTL, testbench, and memory layout.
 - RV64 extension
 
 ---
+## ▶️ How to Run Simulation
+
+1. Open Vivado
+2. Create a new RTL project
+3. Add files from `rtl/`, `memory/`, and `tb/`
+4. Set `tb_soc.v` as top module
+5. Run behavioral simulation
 
 ## 👨‍💻 Author
 
